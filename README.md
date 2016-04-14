@@ -12,9 +12,15 @@ Make use of it.
 
 ## Reading Catalogue
 
-2016/4/1 [Memory Error Summary](https://github.com/ghostbody/15-cpp-learning/issues/1)
+2016/04/01 [Memory Error Summary](https://github.com/ghostbody/15-cpp-learning/issues/1)
 
-2016/4/1 [Issue Posting Tutorial](https://github.com/ghostbody/15-cpp-learning/issues/new)
+2016/04/01 [Issue Posting Tutorial](https://github.com/ghostbody/15-cpp-learning/issues/new)
+
+2016/04/09 [Huawei Internship Interview Questions Summary](https://github.com/ghostbody/15-cpp-learning/issues/3)
+
+2016/04/10 [Tencent Internship Interview Questions Summary](https://github.com/ghostbody/15-cpp-learning/issues/4)
+
+2016/04/11 [Git Basic Tutorial](https://github.com/ghostbody/15-cpp-learning/issues/5)
 
 
 ## What the hell github is ?
