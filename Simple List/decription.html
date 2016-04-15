@@ -1,0 +1,35 @@
+<h1 id="c-lab-da-simple-list">(15 c++ Lab) D&amp;A Simple List</h1>
+<h2 id="introduction">Introduction</h2>
+<p>Knowledge points: (copy) constructor, deep copy, pointers, dynamic allocation, linked list algorithms, debug methods(GDB or IDE or output debug), memory leak.</p>
+<p>In this Lab, you are going to implement a class named list which is a simple version for the list in stl. You are going to use dynamic memory allocation and pointer operations to finish this project.</p>
+<p>I recommend you to:</p>
+<ol style="list-style-type: decimal">
+<li>Learn the knowledge points mentioned above.</li>
+<li>Use local compilers to test you program rather than submit your answer to the system time after time.</li>
+<li>Use local debug tools(GDB is recommended) to debug your code, especially for the memory leak problem. I can tell you that you will meet runtime error problem if you don't use local debug tools.</li>
+<li>Make use of your paper and pen to sketch some diagrams because it's a good way when you meet list.</li>
+</ol>
+<h2 id="requirements">Requirements:</h2>
+<p>Finish all the functions which have been declared inside the hpp file.</p>
+<p>Details:</p>
+<p><code>string toString(void) const</code></p>
+<p>Return a visible list using '-&gt;' to show the linked relation which is a string like:</p>
+<p>1-&gt;2-&gt;3-&gt;4-&gt;5-&gt;NULL</p>
+<p><code>void insert(int position, const int&amp; data)</code></p>
+<p>Add an element at the given position:</p>
+<p>example0:</p>
+<p>1-&gt;3-&gt;4-&gt;5-&gt;NULL</p>
+<p>instert(1, 2);</p>
+<p>1-&gt;2-&gt;3-&gt;4-&gt;5-&gt;NULL</p>
+<p>example1:</p>
+<p>NULL</p>
+<p>insert(0, 1);</p>
+<p>1-&gt;NULL;</p>
+<p><code>void list::erase(int position)</code></p>
+<p>Erase the element at the given position</p>
+<p>1-&gt;2-&gt;3-&gt;4-&gt;5-&gt;NULL;</p>
+<p>erase(0)</p>
+<p>2-&gt;3-&gt;4-&gt;5-&gt;NULL;</p>
+<h2 id="more">More</h2>
+<p>Happy coding...</p>
+<p><a href="https://github.com/wujr5/c-and-cpp-language-learning/issues/46">c language learning : list</a></p>
