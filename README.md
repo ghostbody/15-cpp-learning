@@ -1,11 +1,11 @@
 # 15-cpp-learning
 15 c++ learning repository of SDCS SYSU.
 
-IF you have any ideas, advice or trouble you can share using an issue.
+If you have any ideas, advice or trouble you can share using an issue.
 
-You can click the "watch" button on the top right of this page to receive notifications when the respository upates.
+You can click the "watch" button on the top right of this page to receive notifications when the respository updates.
 
-Also, TA will publish some problems as well as some learing exprience on it.
+Also, TA will publish some problems as well as some learning experience on it.
 
 Make use of it.
 
@@ -24,4 +24,4 @@ Make use of it.
 
 
 ## What the hell github is ?
-You will figure it out latter. Also, I will post some issues about it.
+You will figure it out later. Also, I will post some issues about it.
